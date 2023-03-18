@@ -36,10 +36,7 @@
 					HTML stands for HyperText Markup
 					Language. It is used to design
 					web pages using a markup language.
-					HTML is the combination of Hypertext
-					and Markup language. 
-					format.
-				</p>
+					</p>
 
 
 			</div>
